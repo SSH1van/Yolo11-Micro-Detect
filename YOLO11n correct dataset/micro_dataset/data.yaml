@@ -1,0 +1,4 @@
+train: /content/micro_dataset/images/train
+val: /content/micro_dataset/images/val
+nc: 1
+names: ['micro']
